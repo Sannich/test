@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	int a;// write your code here
         int b;
+        int c;
     }
 }
